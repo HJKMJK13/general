@@ -1,0 +1,169 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+ul,ol{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    display: inline-block;
+}
+
+img{
+    width: 100%;
+}
+
+.container{
+    margin: 0 auto;
+    width: 1140px;
+}
+
+.box{
+    width: 250px;
+    height: 800px;
+    background-color: black;
+    
+}
+
+.small_box1{
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background-color: red;
+    border: none;
+    margin-left: 20px;
+    
+    
+}
+
+.box_1{
+    
+    padding: 30px 0px;
+    text-align: center;
+    
+    
+}
+
+.small_box2{
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background-color: yellow;
+    border: none;
+}
+
+.small_box3{
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background-color: green;
+    border: none;
+    
+}
+
+.box_img1{
+    width: 40px;
+    height: 40px;
+    display: block;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    
+
+}
+
+.box_input{
+    margin-left: 25px;
+    margin-bottom: 20px;
+}
+
+.box_img2{
+    width: 40px;
+    height: 40px;
+    margin-top: 250px;
+    margin-left: 50px;
+    padding: 10px 20px;
+}
+
+.box{
+    display: flex;
+    
+}
+
+.box_2{
+    background-color:  #25272A;
+    
+    padding-right: 50px;
+    padding-left: 20px;
+    height: 800px;
+    border-left: 2px solid white;
+    margin-left: 100px;
+    
+}
+
+.box_small_2 h2{
+    color:white;
+    padding-right: 20px;
+    margin-top: 50px;
+    
+}
+
+.box_small_2{
+    display: flex;
+    align-items: center;
+    
+}
+
+.box_img_2{
+    margin-left: 80px;
+    margin-top:50px;
+}
+
+.box_small_3{
+    display: flex;
+    align-items:center;
+    margin-top: 20px;
+}
+
+.box_img_3{
+    width: 20px;
+    height: 20px;
+}
+
+.box_small_3 h4{
+    color: white;
+    margin-left: 20px;
+    font-size: 15px;
+}
+
+.box_small_4{
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.box_small_4 p{
+    color: white;
+}
+
+.box_small_4 .son{
+    color: white;
+    margin-left: 160px;
+}
+
+.box_link{
+    color: white;
+   margin-bottom: 10px;
+}
+
+.box_link:hover {
+    background-color: rgb(117, 114, 114);
+    width: 150px;
+    height: 20px;
+    border-radius: 5px;
+}
