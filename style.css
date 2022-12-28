@@ -72,8 +72,6 @@ img{
     display: block;
     margin-left: 50px;
     margin-bottom: 20px;
-    
-
 }
 
 .box_input{
@@ -90,8 +88,7 @@ img{
 }
 
 .box{
-    display: flex;
-    
+    display: flex; 
 }
 
 .box_2{
@@ -102,14 +99,12 @@ img{
     height: 800px;
     border-left: 2px solid white;
     margin-left: 100px;
-    
 }
 
 .box_small_2 h2{
     color:white;
     padding-right: 20px;
-    margin-top: 50px;
-    
+    margin-top: 50px;   
 }
 
 .box_small_2{
