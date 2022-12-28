@@ -124,11 +124,6 @@ img{
     margin-top: 20px;
 }
 
-.box_img_3{
-    width: 20px;
-    height: 20px;
-}
-
 .box_small_3 h4{
     color: white;
     margin-left: 20px;
@@ -150,7 +145,7 @@ img{
     color: white;
     margin-left: 160px;
 }
-
+/* 
 .box_link{
     color: white;
    margin-bottom: 10px;
@@ -161,4 +156,4 @@ img{
     width: 150px;
     height: 20px;
     border-radius: 5px;
-}
+} */
