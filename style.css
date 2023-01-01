@@ -179,17 +179,16 @@ img{
     border-radius: 5px;
 } 
 
-.box_3 .block{
-    display:flex;
+.box_3 {
     height: 800px;
-    justify-content: space-between;
     border: 1px solid black;
-    
-    
-    
+  
 }
 
-
+.block{
+    display: flex;
+    padding-bottom: 20px;
+}
 
 .box3_item2 img{
     width: 20px;
@@ -279,4 +278,53 @@ img{
    margin-right: 10px; 
 }
 
+.block2{
+    margin-top: 20px;
+    margin-left: 20px;
+    display: flex;
+}
+
+.lll{
+    display: flex;
+}
+
+.lll .iii1{
+    margin-left: 10px;
+    color: #8D8D8D;
+}
+
+.block2 img{
+   width: 40px;
+   height: 40px;
+   border-radius: 5px;
+}
+
+.textt{
+    margin-top: 3px;
+}
+
+.textt a{
+    margin-top: 5px;
+}
+
+.gori{
+    display: flex;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.gori hr{
+  width: 230px;
+  border-bottom: none;
+  border-left: none;
+  border-right: none;
+  margin: 0 auto;
+  margin-top: 7px;
+}
+
+.gori p{
+    color: #8D8D8D;
+    font-size: 13px;
+
+}
 
