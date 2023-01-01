@@ -20,12 +20,12 @@ img{
 
 .container{
     margin: 0 auto;
-    width: 1140px;
+    width: 1500px;
 }
 
 .box{
     width: 250px;
-    height: 800px;
+    height: 1100px;
     background-color: black;
     
 }
@@ -96,7 +96,7 @@ img{
     
     padding-right: 50px;
     padding-left: 20px;
-    height: 800px;
+    height: 1100px;
     border-left: 2px solid white;
     margin-left: 100px;
 }
@@ -180,9 +180,9 @@ img{
 } 
 
 .box_3 {
-    height: 800px;
+    height: 1100px;
     border: 1px solid black;
-  
+    
 }
 
 .block{
@@ -325,6 +325,77 @@ img{
 .gori p{
     color: #8D8D8D;
     font-size: 13px;
-
 }
+
+.block3 .block_small{
+    margin-top: 20px;
+    margin-left: 20px;
+  display: flex;
+}
+
+.block_small img{
+    width: 40px;
+    height: 40px;
+    border-radius: 5px;
+}
+
+.rasmm{
+    width: 400px;
+    height: 300px;
+    margin-left: 60px;
+    margin-top: 30px;
+}
+
+.matn{
+    padding-right: 50px;
+}
+
+.block4{
+    margin-top: 20px;
+    margin-left: 20px;
+    display: flex;
+    padding-bottom: 30px;
+}
+
+.lll{
+    display: flex;
+}
+
+.lll .iii1{
+    margin-left: 10px;
+    color: #8D8D8D;
+}
+
+.block4 img{
+   width: 40px;
+   height: 40px;
+   border-radius: 5px;
+}
+
+.pic{
+    display: flex;
+}
+
+.pic_1{
+    height: 20px;
+    width: 15px;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+.pic_2{
+    width: 15px;
+    height: 20px;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+.ddd{
+    margin-top: 30px;
+    margin-left: 20px;
+    color:  #8D8D8D;
+    font-size: 14px;
+}
+
+
 
