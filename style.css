@@ -544,6 +544,12 @@ img{
     .container{
         width: 440px;
     }
+
+    .box{
+        display: flex;
+        width: 400px;
+        flex-wrap: wrap;
+    }
 }
 
 @media(max-width:460px){
